@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SimlProject>
   <Profile>Classic</Profile>
-  <Name>ArchiBot AI</Name>
+  <Name>GlockN’Roll King’! AI</Name>
   <Directory>ArchiBot</Directory>
-  <BotName>ArchiBot</BotName>
-  <Personality>Female English Bot</Personality>
-  <Author>Touhou Giveaways Group</Author>
-  <Description>This is a bot for the Touhou Giveaways group based on the default English SIML template.</Description>
+  <BotName>MarkusKing-Bot</BotName>
+  <Personality>Male English Bot</Personality>
+  <Author>FreePlay Guild</Author>
+  <Description>This is a bot for the FreePlay Guild group based on the default English SIML template.</Description>
   <Date>17-05-02 12:00:00.000</Date>
   <Notes></Notes>
 </SimlProject>
